@@ -78,24 +78,33 @@
 
 <body>
 
-        <h2 style="color: #008069"> Version 42.0</h2>
-    <date>2022/10/28</date>
+            <h2 style="color: #008069"> Version 43.0</h2>
+    <date>2022/12/22</date>
     <hr/>
     <p>
 	
 	
 	
-		<point>Added</point> You can download the profile picture of any user.<br>		
-		<point>Added</point> Tap on Chat Bubble to Modify Chat, Translate, Change Translator Language, Extract URLs, Message Details etc. Also you can Enable / Disable by (SPMods >> Settings >> Bubble And Ticks >> Disable More Option Dialog from Bubble)<br>		
-		<point>Added</point> Media Resolution (Photos, Video and Status qulity)<br>
-		<enable>Enabled</enable> Create Polls and voting in groups 📊!<br>		
-		<fixed>Fixed</fixed> Delete messages by admins in groups not working properly<br>
-		<fixed>Fixed</fixed> WhatsApp lock not working<br>
-		<fixed>Fixed</fixed> Hide recently/viewed/muted Status update not working<br>
-		<fixed>Fixed</fixed> Admin badge showing for random members<br>		
-		<fixed>Fixed</fixed> Other small bugs<br>
-	 Translations<br>	
-		<fixed>Misc</fixed> Many other fixes and improvements that we forgot <br/>
+		<point>Added</point> Typing Toast<br>		
+		<point>Added</point> Direct Translate icon inside message box
+—> 1-Click to select language, Long-click to change language <br>	
+        <point>Added</point> More attachment options "..." to entry styles: Hangouts, Hangouts V2, WAMOD, Dribble and Dribble V2<br>
+        <point>Added</point> Option to disable direct translate (SPMods > Settings > Conversation > Entry Style > Translate)<br>
+        <point>Added</point> Preview Image/Video without saving to phone<br>
+        <point>Added</point> Repost option for Story/Status<br>
+        <point>Added</point> SPWA Backups now created .zip file<br>			
+	
+	
+		<enable>Enabled</enable> Chat in Poll <br>
+		<enable>Enabled</enable> Message yourself (save notes)<br>
+		<enable>Enabled</enable> Forward Media with Caption<br>
+		<enable>Enabled</enable> New Camera tab UI<br>
+		<enable>Enabled</enable> Create Avater<br>
+		<enable>Enabled</enable> App Language<br>
+		<enable>Enabled</enable> Create Community <br>
+		<enable>Enabled</enable> Post Voice note as status/story<br>		
+	
+		<fixed>Update</fixed> Anti-Ban<br/>
 		
 	    </p>
     <hr/>
