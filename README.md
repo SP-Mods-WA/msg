@@ -78,33 +78,39 @@
 
 <body>
 
-            <h2 style="color: #008069"> Version 43.0</h2>
-    <date>2022/12/22</date>
+            <h2 style="color: #008069"> Version 44.0</h2>
+    <date>2023/01/29</date>
     <hr/>
     <p>
 	
 	
 	
-		<point>Added</point> Typing Toast<br>		
-		<point>Added</point> Direct Translate icon inside message box
-—> 1-Click to select language, Long-click to change language <br>	
-        <point>Added</point> More attachment options "..." to entry styles: Hangouts, Hangouts V2, WAMOD, Dribble and Dribble V2<br>
-        <point>Added</point> Option to disable direct translate (SPMods > Settings > Conversation > Entry Style > Translate)<br>
-        <point>Added</point> Preview Image/Video without saving to phone<br>
-        <point>Added</point> Repost option for Story/Status<br>
-        <point>Added</point> SPWA Backups now created .zip file<br>			
+		<point>Added</point> Option to hide camera icon from home top bar (SPMods > Settings > Home Screen)<br>		
+	    <point>Added</point> Tap on Chat Bubble to Decrypt Message<br>	
+		<point>Added</point> Story Repost option into download box<br>	
+        <point>Added</point> Hide Anti-Deleted icon (SPMods > Settings > Bubbles And Ticks)<br>
+        <point>Added</point> Set Default Contact Name (SPMods > Settings > Settingd > Extra Features)<br>
+        <point>Added</point> Custom Video Player (SPMods > Settings > Settingd > Extra Features)<br>
+        <point>Added</point> Customize Chat UI<br>
+        <point>Added</point> Option to hide profile pic from home top bar (SPMods > Settings > Screen)<br>		<point>Improved</point> Status DP ring takes same color as status ring<br>			
+		<point>ReAdded</point> Home Drawer<br>	
+			<point>ReAdded</point> Set Profile pic Imoji And Sticker<br>	
+				<point>ReAdded</point> Download Profile Pic<br>	
 	
+		<enable>Enabled</enable> you can edit Your Message After sending<br>
+		<enable>Enabled</enable> Undo deleted message (delete for me)<br>
+		<enable>Enabled</enable>Sending caption with documents for all<br>
 	
-		<enable>Enabled</enable> Chat in Poll <br>
-		<enable>Enabled</enable> Message yourself (save notes)<br>
-		<enable>Enabled</enable> Forward Media with Caption<br>
-		<enable>Enabled</enable> New Camera tab UI<br>
-		<enable>Enabled</enable> Create Avater<br>
-		<enable>Enabled</enable> App Language<br>
-		<enable>Enabled</enable> Create Community <br>
-		<enable>Enabled</enable> Post Voice note as status/story<br>		
-	
-		<fixed>Update</fixed> Anti-Ban<br/>
+		<fixed>Fixed</fixed> Hide Typing & Recording privacy not working (now merged)<br/>		
+			<fixed>Fixed</fixed> New Attach UI and some entries not opening correct gallery<br>
+			<fixed>Fixed</fixed> Blank space on side when recording voice note on stock entry style<br>
+			<fixed>Fixed</fixed>  Hide Muted/Recent/Viewed Updates status option<br>
+			<fixed>Fixed</fixed> Payment icon showing incorrectly in some entries<br>
+			<fixed>Fixed</fixed> Voice note playing crash on some phones<br>
+			<fixed>Fixed</fixed> Hidden chats "Forward to" option<br>
+			<fixed>Fixed</fixed> Conversation Cards (multi chats) option<br>
+			<fixed>Fixed</fixed> Some users crash after restore<br>
+			<fixed>Fixed</fixed> Not Showing Change Profile pic toast<br>
 		
 	    </p>
     <hr/>
