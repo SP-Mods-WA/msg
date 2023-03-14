@@ -78,43 +78,41 @@
 
 <body>
 
-            <h2 style="color: #008069"> Version 44.0</h2>
-    <date>2023/01/29</date>
+             <h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h1>
+
+   
+  
+ 
+     <h2 style="color: #008069"> Version 45.0</h2>
+    <date>2023/03/14</date>
     <hr/>
     <p>
-	
-	
-	
-		<point>Added</point> Option to hide camera icon from home top bar (SPMods > Settings > Home Screen)<br>		
-	    <point>Added</point> Tap on Chat Bubble to Decrypt Message<br>	
-		<point>Added</point> Story Repost option into download box<br>	
-        <point>Added</point> Hide Anti-Deleted icon (SPMods > Settings > Bubbles And Ticks)<br>
-        <point>Added</point> Set Default Contact Name (SPMods > Settings > Settingd > Extra Features)<br>
-        <point>Added</point> Custom Video Player (SPMods > Settings > Settingd > Extra Features)<br>
-        <point>Added</point> Customize Chat UI<br>
-        <point>Added</point> Option to hide profile pic from home top bar (SPMods > Settings > Screen)<br>		<point>Improved</point> Status DP ring takes same color as status ring<br>			
-		<point>ReAdded</point> Home Drawer<br>	
-			<point>ReAdded</point> Set Profile pic Imoji And Sticker<br>	
-				<point>ReAdded</point> Download Profile Pic<br>	
-	
-		<enable>Enabled</enable> you can edit Your Message After sending<br>
-		<enable>Enabled</enable> Undo deleted message (delete for me)<br>
-		<enable>Enabled</enable>Sending caption with documents for all<br>
-	
-		<fixed>Fixed</fixed> Hide Typing & Recording privacy not working (now merged)<br/>		
-			<fixed>Fixed</fixed> New Attach UI and some entries not opening correct gallery<br>
-			<fixed>Fixed</fixed> Blank space on side when recording voice note on stock entry style<br>
-			<fixed>Fixed</fixed>  Hide Muted/Recent/Viewed Updates status option<br>
-			<fixed>Fixed</fixed> Payment icon showing incorrectly in some entries<br>
-			<fixed>Fixed</fixed> Voice note playing crash on some phones<br>
-			<fixed>Fixed</fixed> Hidden chats "Forward to" option<br>
-			<fixed>Fixed</fixed> Conversation Cards (multi chats) option<br>
-			<fixed>Fixed</fixed> Some users crash after restore<br>
-			<fixed>Fixed</fixed> Not Showing Change Profile pic toast<br>
-		
-	    </p>
-    <hr/>
+  
+ 
 
+
+    <baseup>Base Update</baseup>Updated 2.23.1.76 (Play Store)<br>
+
+
+    <point>Added</point> Options to hide Save and Mark Seen buttons on status page<br>
+    <point>Added</point> Load custom font<br>
+(1- Select "Custom" from font style, then 2- use Load font option)<br>
+    <point>Added</point> Option to Hide Status Cutter FAB ✂️<br>
+    <point>Added</point> SPBackup updated automatically daily<br>
+    <point>Added</point>Privacy Reset Button & App Restart Button Setting Page Headder<br>
+    <enable>Enabled</enable> Proxy Settings (Settings > Storage and data > Proxy Settings)<br>
+    <enable>Enabled</enable> Edit Messages<br>
+    <enable>Enabled</enable> Keep messages option when disappearing mode is active (Long press any message)<br>
+    <fixed>Fixed</fixed>Not Working Splash screen some phone<br>
+    <fixed>Fixed</fixed>Auto reply / forward crash<br>
+    <fixed>Fixed</fixed> WhatsApp fingerprint lock issues<br>
+    <fixed>Fixed</fixed> Many custom text status icons <br>
+    <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
+    <fixed>Misc</fixed> Other fixes and improvements<br>
+
+	
+	    </p>
+    <hr/>	
 </body>
 
 </html>
