@@ -82,31 +82,24 @@
 
    
   
- 
-     <h2 style="color: #008069"> Version 45.0</h2>
-    <date>2023/03/14</date>
+      <h2 style="color: #008069"> Version 46.0</h2>
+    <date>2023/04/12</date>
     <hr/>
     <p>
   
  
-
-
-    <baseup>Base Update</baseup>Updated 2.23.1.76 (Play Store)<br>
-
-
-    <point>Added</point> Options to hide Save and Mark Seen buttons on status page<br>
-    <point>Added</point> Load custom font<br>
-(1- Select "Custom" from font style, then 2- use Load font option)<br>
-    <point>Added</point> Option to Hide Status Cutter FAB ✂️<br>
-    <point>Added</point> SPBackup updated automatically daily<br>
-    <point>Added</point>Privacy Reset Button & App Restart Button Setting Page Headder<br>
-    <enable>Enabled</enable> Proxy Settings (Settings > Storage and data > Proxy Settings)<br>
-    <enable>Enabled</enable> Edit Messages<br>
-    <enable>Enabled</enable> Keep messages option when disappearing mode is active (Long press any message)<br>
-    <fixed>Fixed</fixed>Not Working Splash screen some phone<br>
-    <fixed>Fixed</fixed>Auto reply / forward crash<br>
-    <fixed>Fixed</fixed> WhatsApp fingerprint lock issues<br>
-    <fixed>Fixed</fixed> Many custom text status icons <br>
+    <point>Added</point> Who Changed Privacy?<br>
+    <point>Added</point> High Media Resolution<br>
+    <point>Added</point> Conversation Row Unread Message Counter Background Border Color Changer<br>
+    <point>Added</point> Conversation Row Unread Message Counter Background Rounded Corner Changer️<br>
+    <point>Added</point> Fake - Real Time Chat Group And Contact<br>
+    <point>Added</point>Encrypt Message Password Changer ( SPMods >> Settings >> Extra Features )<br>
+        <point>Added</point>Know When Someone Deleted Story & Message ( SPMods >> Settings >> Bubbles And Ticks)<br>
+    <enable>New</enable> Redesing Our Settings Page<br>
+    <fixed>Fixed</fixed>Typing Toast<br>
+    <fixed>Fixed</fixed>Boom Option Crash Some Phone<br>
+    <fixed>Fixed</fixed> Issue Of 1 hour Ban For Some Users<br>
+   
     <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
     <fixed>Misc</fixed> Other fixes and improvements<br>
 
