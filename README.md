@@ -78,25 +78,31 @@
 
 <body>
 
-               	 <h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban Protection 99.9%</i></fixed><br></h1>
+               	  <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
 
-     <h2 style="color: #008069"> Version 46.0F Anti-ban</h2>
+     <h2 style="color: #008069"> Version 47.0</h2>
 
-    <date>2023/05/10</date>
+    <date>2023/06/14</date>
 
     <hr/>
 
     <p>
 
-        <point>Added</point> MAX Anti-ban Protection<br>        
+  
 
-        <enable>Enabled</enable> Some Hidden Function<br>
+ <point>Added</point> Reply to text when mention SPMods >> Settings >>> Extra Feature <br>
 
-        <fixed>Fixed</fixed> High Media Resolution <br>
+ <point>Added</point> Default turn off Who Change Privacy notifications.(You can turn on in SPMods >> Who Change Privacy >> Notifications) <br>
 
-       </p>
+<fixed>Fixed</fixed> Dark Themes issues <br>
 
-    <hr/>	
+<fixed>Fixed</fixed> False anti-virus/anti-malware reports <br>
+
+    <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
+
+    <fixed>Misc</fixed> Other fixes and improvements<br>
+
+	    </p>
     	
 </body>
 
