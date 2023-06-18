@@ -80,6 +80,13 @@
 
                	  <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
 
+    <h2 style="color: #008069"> Version 47.0F</h2>
+<fixed>Fixed</fixed> Date Update issues <br>
+
+<fixed>Fixed</fixed> 1min banned some users <br>
+
+<fixed>Fixed</fixed> (wa .me / settings) issues some countries users <br>
+<hr>
      <h2 style="color: #008069"> Version 47.0</h2>
 
     <date>2023/06/14</date>
