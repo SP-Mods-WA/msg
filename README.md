@@ -79,7 +79,30 @@
 <body>
 
                	  	 <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
-		   	
+
+      
+	    <h2 style="color: #008069"> Version 48.1</h2>
+    <date>2023/07/28</date>
+    <hr/>
+    <p>
+   
+<baseup>🔧</baseup> Not working Auto-responder Mention this base <br>
+<baseup>🔧</baseup> Not working Manage Member [hide tag] this base <br>
+<enable>Enabled</enable> Silence unknown callers <br>
+<fixed>Fixed</fixed> Unable to open the app on some phones <br>
+<fixed>️Fixed</fixed> ban issues some users <br>
+<fixed>️Fixed</fixed> Search bar not working <br>
+<fixed>Fixed</fixed>  app not installing some phone <br>
+<fixed>Fixed</fixed> Send My location issues <br>
+<fixed>Fixed</fixed> My location button in map <br>
+<fixed>Misc</fixed> General bug fixes<br>
+<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
+<fixed>Misc</fixed> Other fixes and improvements
+	
+	
+	    </p>
+     <hr/>
+    <br/>	   	
 		   	
     <h2 style="color: #008069"> Version 48.0</h2>
     <date>2023/07/13</date>
