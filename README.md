@@ -81,59 +81,34 @@
                	  	 <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
 
       
-	    <h2 style="color: #008069"> Version 48.1</h2>
-    <date>2023/07/28</date>
+	        <h2 style="color: #008069"> Version 49.0</h2>
+    <date>2023/09/25</date>
     <hr/>
     <p>
-   
-<baseup>🔧</baseup> Not working Auto-responder Mention this base <br>
-<baseup>🔧</baseup> Not working Manage Member [hide tag] this base <br>
-<enable>Enabled</enable> Silence unknown callers <br>
-<fixed>Fixed</fixed> Unable to open the app on some phones <br>
-<fixed>️Fixed</fixed> ban issues some users <br>
-<fixed>️Fixed</fixed> Search bar not working <br>
-<fixed>Fixed</fixed>  app not installing some phone <br>
-<fixed>Fixed</fixed> Send My location issues <br>
-<fixed>Fixed</fixed> My location button in map <br>
-<fixed>Misc</fixed> General bug fixes<br>
-<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
-<fixed>Misc</fixed> Other fixes and improvements
-	
-	
-	    </p>
-     <hr/>
-    <br/>	   	
-		   	
-    <h2 style="color: #008069"> Version 48.0</h2>
-    <date>2023/07/13</date>
-    <hr/>
-    <p>
-	
-	
-	
-<baseup>Base Update</baseup>Updated to 2.23.9.75 (Play Store)- Play Store<br>
-<point style="font-weight: bold;">📌 Exclusive</point> Media Backup/Restore option (Images, Videos, etc.) <br>
-—> SPMods > Settings > Backup and Restore<br>
-- Useful for Android 11+ users to backup media before uninstall<br>  
-<point>Added</point>Edited Messages & Original Message View<br>
-<point>Added</point>Send docs, media, audio up to 100MB+ size<br>
-<point>Added</point> iOS 2023 Emojis pack (SPMods > Settings > Styles) <br>
-<enable>Enabled</enable> Edit Messages<br>
-<enable>Enabled</enable> Receive Pinned messages from others<br>
-<enable>Enabled</enable> Transfer Chats between phones without GDrive (Settings > Chats)<br>
-<enable>Enabled</enable> Pin Message in private chats<br>
 
-<enable>Enabled</enable> official Locked Conversations (Chat Info page > Lock)<br>
-<enable>Enabled</enable> Group Members pic in chat (official by WA)<br>
-<fixed>Fixed</fixed> Crash when clicking on community <br>
-<fixed>Misc</fixed> View all User messages moved to Group Info page<br>
-<fixed>Misc</fixed> Some styles updated to work with new WA base.<br>
-<fixed>Misc</fixed> Cleaned up some settings<br>
-<fixed>Misc</fixed> General bug fixes<br>
-<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
-<fixed>Misc</fixed> Other fixes and improvements
-	
-	
+<baseup> Base Updated</baseup> 2.23.13.76<br>
+<point style="font-weight: bold;">📌 Exclusive</point> Added "Mark As Read" inside chat when hide blue tick is enabled<br>
+<point> Added</point> See Original Message before Edit(You Can Copy Original Message)<br>
+<point> Added</point> Save feature for new Video Messages<br>
+<point> Added</point> icon next to "Edited" for users to notice<br>
+<enable>️ Enabled</enable> send Quick Video Message (click once on mic icon)<br>
+<enable> Enabled</enable> New Navbar UI<br>
+<enable>️ Enabled</enable> Send media in HD<br>
+<enable> Enabled</enable> Pin message for 24hr, 7 days or 30 days<br>
+<enable> Enabled</enable> Share Status on Facebook (Status tab > Status Privacy)<br>
+<fixed> ️Update</fixed>  Added Hide Play Voice/Video notes option<br>
+<fixed> Fixed</fixed> Calls banner bug in home screen<br>
+<fixed> Fixed</fixed> Voice note banner bug with One UI<br>
+<fixed> Fixed</fixed> Delete For Everyone as Admin in Groups not taking color<br>
+<fixed> Fixed</fixed> Hidden chat showing in App icon shortcuts<br>
+<fixed> Fixed</fixed> Search in groups tab<br>
+<fixed> Fixed</fixed> Daily local backup<br>
+<fixed> Fixed</fixed> Online payments crash<br>
+<fixed> Misc</fixed> General bug fixes<br>
+<fixed> Misc</fixed> Enjoy and discover by yourself!<br/>
+<fixed> Misc</fixed> Other fixes and improvements
+
+
 	    </p>
     	
 </body>
