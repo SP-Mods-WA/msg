@@ -79,6 +79,29 @@
 <body>
 
                	  	 <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
+		   
+    <h2 style="color: #008069"> Version 49.F</h2>
+    <date>2023/10/05</date>
+    <hr/>
+    <p>
+
+
+
+<enable>️ Enabled</enable> New Setting Style <br>
+<enable> Enabled</enable> Toolbar Profile pic <br>
+
+
+<fixed> Fixed</fixed> Group Crash Some users <br>
+<fixed> Fixed</fixed> Send media in HD <br>
+<fixed> Fixed</fixed> Ban issues <br>
+
+<fixed> Misc</fixed> General bug fixes<br>
+<fixed> Misc</fixed> Enjoy and discover by yourself!<br/>
+<fixed> Misc</fixed> Other fixes and improvements
+
+
+	    </p>
+     <br>
 
       
 	        <h2 style="color: #008069"> Version 49.0</h2>
