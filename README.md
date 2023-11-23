@@ -78,22 +78,53 @@
 
 <body>
 
-               	  	 <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
-		   
-    <h2 style="color: #008069"> Version 49.F</h2>
-    <date>2023/10/05</date>
+               	  	  
+<center>	
+
+		<fixed style="font-weight: bold; "> <i> ⚠️ IMPORTANT NOTE:</i>
+
+<br>
+
+  "When you download the new update, if it asks you to verify your phone number again, do it so you don't lose the conversation"
+
+          </fixed><br /></center><br>    
+
+		
+		   	 <h2><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban very much for now</i></fixed><br></h2>
+		   	
+	<h2 style="color: #008069"> Version 50.0</h2>
+    <date>2023/11/23</date>
     <hr/>
     <p>
 
 
+<baseup> Base Updated</baseup> 2.23.24.12<br>
+<point> Added</point> New Message Select Menu (on/off)<br>
+<point> Added</point> SPWA Save Status Now (/storage/emulated/0/Download/Media/SP WhatsApp_Statuses/)<br>
+<point> Added</point> Show who admin promoted or removed<br>
+<point> Added</point> Auto backup Your Data (You Can Change it)<br>
+<point> Added</point> Fake Chat<br>
+<point> Added</point> Upload status video in 7 minutes<br>
+<point> Added</point> Best Media Qulity (Send Your All Media)<br>
 
-<enable>️ Enabled</enable> New Setting Style <br>
-<enable> Enabled</enable> Toolbar Profile pic <br>
+
+<enable>️ Enabled</enable> New Home UI<br>
+<enable> Enabled</enable> New Theme<br>
+<enable>️ Enabled</enable> Filter messages on the home screen<br>
+<enable> Enabled</enable> animations when opening the keyboard<br>
+<enable>️ Enabled</enable> Create AI Stickers on same devices<br>
+<enable> Enabled</enable> New Icon<br>
+<enable> Enabled</enable> Option to approve new group members before joining<br>
+<enable> Enabled</enable> Animation Avatar<br>
+<enable> Enabled</enable> Multiple Accounts <br>
+<enable> Enabled</enable> Adjust Group Permissions<br>
+<enable> Enabled</enable> Add Email Address to your account (Settings > Account)<br>
+<enable> Enabled</enable> Media Preview feature<br>
 
 
-<fixed> Fixed</fixed> Group Crash Some users <br>
-<fixed> Fixed</fixed> Send media in HD <br>
-<fixed> Fixed</fixed> Ban issues <br>
+<fixed> Fixed</fixed> Google Drive Backup<br>
+<fixed> Fixed</fixed> SPMods Add Account creater<br>
+<fixed> Fixed</fixed> Create Backup zip Folder (some devices error)<br>
 
 <fixed> Misc</fixed> General bug fixes<br>
 <fixed> Misc</fixed> Enjoy and discover by yourself!<br/>
@@ -101,38 +132,7 @@
 
 
 	    </p>
-     <br>
 
-      
-	        <h2 style="color: #008069"> Version 49.0</h2>
-    <date>2023/09/25</date>
-    <hr/>
-    <p>
-
-<baseup> Base Updated</baseup> 2.23.13.76<br>
-<point style="font-weight: bold;">📌 Exclusive</point> Added "Mark As Read" inside chat when hide blue tick is enabled<br>
-<point> Added</point> See Original Message before Edit(You Can Copy Original Message)<br>
-<point> Added</point> Save feature for new Video Messages<br>
-<point> Added</point> icon next to "Edited" for users to notice<br>
-<enable>️ Enabled</enable> send Quick Video Message (click once on mic icon)<br>
-<enable> Enabled</enable> New Navbar UI<br>
-<enable>️ Enabled</enable> Send media in HD<br>
-<enable> Enabled</enable> Pin message for 24hr, 7 days or 30 days<br>
-<enable> Enabled</enable> Share Status on Facebook (Status tab > Status Privacy)<br>
-<fixed> ️Update</fixed>  Added Hide Play Voice/Video notes option<br>
-<fixed> Fixed</fixed> Calls banner bug in home screen<br>
-<fixed> Fixed</fixed> Voice note banner bug with One UI<br>
-<fixed> Fixed</fixed> Delete For Everyone as Admin in Groups not taking color<br>
-<fixed> Fixed</fixed> Hidden chat showing in App icon shortcuts<br>
-<fixed> Fixed</fixed> Search in groups tab<br>
-<fixed> Fixed</fixed> Daily local backup<br>
-<fixed> Fixed</fixed> Online payments crash<br>
-<fixed> Misc</fixed> General bug fixes<br>
-<fixed> Misc</fixed> Enjoy and discover by yourself!<br/>
-<fixed> Misc</fixed> Other fixes and improvements
-
-
-	    </p>
     	
 </body>
 
